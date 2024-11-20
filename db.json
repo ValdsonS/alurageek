@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "nome": "superman",
+      "valor": "80,00",
+      "imagem": "https://nivalmix.vteximg.com.br/arquivos/ids/231626-1000-1000/Nivalmix-Boneco-Articulado-Superman-Liga-Da-Justica-1098-Rosita-2393696--2-.jpg?v=638169827738000000",
+      "id": 1
+    },
+    {
+      "nome": "Ciclope",
+      "valor": "120",
+      "imagem": "https://m.media-amazon.com/images/I/71YG7FR6npL._AC_UF894,1000_QL80_.jpg",
+      "id": 4
+    },
+    {
+      "nome": "Jean Grey",
+      "valor": "150,00",
+      "imagem": "https://m.media-amazon.com/images/I/61O-3fjzRIL.jpg",
+      "id": 5
+    }
+  ]
+}
